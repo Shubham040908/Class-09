@@ -21,7 +21,7 @@ if(keyIsDown(UP_ARROW)) {
   box.position.y = box.position.y-5;
 }
 
-if(keyIsDown(RIGHT_ARROW)) {
+if(keyIsDown(DOWN_ARROW)) {
   box.position.y = box.position.y+5;
 }
 
